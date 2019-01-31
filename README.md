@@ -3,7 +3,7 @@
 # frontend-server
 
 ## 아래 주소를 통해서 이곳으로 올 수 있습니다. 
-http://bit.ly/fb-frontend
+https://github.com/Jinny42/facebook-frontend-server/blob/master/README.md
 
 
 ## 설치해주세요
